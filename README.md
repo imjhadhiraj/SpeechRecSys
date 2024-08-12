@@ -1,6 +1,3 @@
-Here's a README file for your Speech Recognition System:
-
----
 
 # Speech Recognition System
 
